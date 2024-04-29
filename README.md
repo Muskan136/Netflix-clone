@@ -25,7 +25,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 Acknowledgements
 Special thanks to Netflix for inspiring this project.
-Mock API data provided by FakeJSON.
+
 
 
 
